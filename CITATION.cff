@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Titration by a co-replicating reservoir: code and result tables"
+abstract: "Chemical-master-equation solver, result tables and figure scripts for an
+  exact stochastic analysis of iteron-based plasmid copy-number control."
+authors:
+  - family-names: Tal
+    given-names: Shay
+    affiliation: "National Center for Mariculture, Israel Oceanographic and Limnological Research, Eilat, Israel"
+    email: shay.tal@ocean.org.il
+license: MIT
+version: "1.0.0"
+keywords:
+  - plasmid copy-number control
+  - iteron
+  - initiator titration
+  - chemical master equation
+  - stochastic gene expression
+preferred-citation:
+  type: article
+  title: "Titration by a co-replicating reservoir: an exact
+    stochastic analysis of iteron-based plasmid copy-number control"
+  authors:
+    - family-names: Tal
+      given-names: Shay
+  journal: "Journal of Theoretical Biology"
+  year: 2026

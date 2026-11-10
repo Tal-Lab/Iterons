@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Co-replicating iteron arrays filter plasmid copy-number noise without controlling copy number: code and result tables"
+abstract: "Chemical-master-equation solver, table and figure scripts, and result tables for an
+  exact stochastic analysis of iteron plasmid copy-number control with a co-replicating
+  binding-site reservoir."
+authors:
+  - family-names: Tal
+    given-names: Shay
+    affiliation: "National Center for Mariculture, Israel Oceanographic and Limnological Research, Eilat, Israel"
+    email: shay.tal@ocean.org.il
+license: MIT
+version: "2.0.0"
+date-released: "2026-11-07"
+repository-code: "https://github.com/Tal-Lab/Iterons"
+keywords:
+  - plasmid copy-number control
+  - iteron
+  - initiator titration
+  - chemical master equation
+  - linear-noise approximation
+  - stochastic gene expression
+preferred-citation:
+  type: article
+  title: "Co-replicating iteron arrays filter plasmid copy-number noise without controlling copy number"
+  authors:
+    - family-names: Tal
+      given-names: Shay
+  journal: "Physical Review E"
+  year: 2026
+  notes: "Manuscript submitted. Volume, article number and year will be fixed on acceptance."

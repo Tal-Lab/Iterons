@@ -1,0 +1,7 @@
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.7
+
+# needed only for the binding_validation target of compute_tables.py
+# pypardiso
